@@ -3,5 +3,5 @@ Data visualisations
 
 #### Dashboard
 
-![Dashboard 1](./visuals/Dashboard%201.png)
+![US_retailers](./visuals/US_retailers.png)
 
