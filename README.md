@@ -15,7 +15,7 @@ This visualisation can also be found at [US Retailers](https://public.tableau.co
 
 From the graphs presented in the dashboard, we can come to multiple conclusions.
 
-### Dashboard for CO2 Emission
+### Dashboard for CO2
 
 The following data visualisation is about CO2 Emission by each country in the world.
 
