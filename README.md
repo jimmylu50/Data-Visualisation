@@ -15,7 +15,7 @@ This visualisation can also be found at [US Retailers](https://public.tableau.co
 
 From the graphs presented in the dashboard, we can come to multiple conclusions.
 
-### Dashboard for CO2
+### Dashboard for CO2 Emission
 
 The following data visualisation is about CO2 Emission by each country in the world.
 
@@ -24,5 +24,3 @@ The graphs and map are representative of the amount of CO2 emission by each coun
 This visualisation can also be found at [CO2 Emission](https://public.tableau.com/app/profile/jin.luo5003/viz/Homework5_16300466723770/Dashboard1).
 
 ![CO2_Emission](./tableau_visuals/CO2_Emission.png)
-
-yes test
